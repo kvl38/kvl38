@@ -4,6 +4,6 @@ I enjoy data analytics and continuously grow my expertise in AI and NLP
 
 ## Technologies & Tools  
 - Python | Jupyter Notebook | PyTorch | TensorFlow
-- scikit-learn | Pandas | NumPy | SciPy
+- Scikit-learn | Pandas | NumPy | SciPy
 - HuggingFace Transformers | NLTK | LangGraph
 - PostgreSQL | Docker | Git | MLflow | FastAPI
